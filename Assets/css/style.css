@@ -1,0 +1,24 @@
+body {
+    background-color: royalblue;
+}
+.header {
+    display: inline-block;
+    justify-content: space-between;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif sans-serif;
+}
+
+.header h1 {
+    font-size: 45px;
+    color: yellow;
+}
+
+.header div ul li {
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif sans-serif;
+    font-size: 15px;
+   text-align: end;
+}
+
+ {
+
+}
