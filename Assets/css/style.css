@@ -1,24 +1,23 @@
 * {
-    /* box-sizing: border-box; */
-    padding: 5px;
-    margin: 5px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+@media screen and (min-width: 640px){
 body {
-    background-color: rgb(229, 231, 239);
+    background-color: rgb(229, 231, 239);}
 }
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', Arial, sans-serif;
-    background-color: rgb(135, 141, 160);
-    color: black;
-}
-.header h1 {
-    display: inline-block;
-    font-size: 56px;
     
-.div nav ul li { 
-    ;
-} 
+    
+header {
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;  
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
 }
 .contact {
     justify-content: center;
