@@ -1,27 +1,38 @@
 * {
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     padding: 5px;
     margin: 5px;
 }
 body {
-    background-color: rgb(148, 167, 223);
+    background-color: rgb(229, 231, 239);
 }
 .header {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif sans-serif;
-    font-size: 15px;
-    color: yellow;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif sans-serif;
+    padding: 20px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    background-color: rgb(135, 141, 160);
+    color: black;
 }
-.header div ul li {
-    text-align;
-    margin-left: 25px;
-}
-.work {
-    box-shadow: 3px;
+.header h1 {
+    display: inline-block;
+    font-size: 56px;
+    
+.div nav ul li { 
+    ;
+} 
 }
 .contact {
-    text-align: center;
+    justify-content: center;
+}
+.work {
+    padding: 20%;
+    margin: 10%;
+    flex-direction: row;
+}
+#box {
+    width: 50%;
+    height: 50%;
 }
 img {
-    width: 100%;
+    width: 400px;
+    height: 400px;
 }
