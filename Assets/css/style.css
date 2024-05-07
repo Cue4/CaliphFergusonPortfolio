@@ -9,7 +9,8 @@ body {
     background-color: rgb(229, 231, 239);}
 }
     
-    
+  /*begining of header section*/ 
+   
 header {
     padding: 20px;
     font-size: 30px;
@@ -24,6 +25,8 @@ ul {
     color: black;
     padding: 0 10%;
 }
+/*End of header section*/
+
 .contact {
     justify-content: center;
 }
