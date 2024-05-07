@@ -14,10 +14,15 @@ header {
     padding: 20px;
     font-size: 30px;
     font-family: 'Trebuchet MS', Arial, sans-serif;  
+    background-color: rgb(129, 131, 206);
 }
 ul {
     display: flex;
     justify-content: space-evenly;
+    list-style: none;
+    background-color: rgb(235, 235, 243);
+    color: black;
+    padding: 0 10%;
 }
 .contact {
     justify-content: center;
