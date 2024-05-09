@@ -36,28 +36,38 @@ nav li {
 
 /*End of header section*/
 
+p {
+    text-align: center;
+    font-size: 150%;
+}
+
 #projects{
     font-size: 20px;
     font-family: 'Trebuchet MS', Arial, sans-serif; 
     letter-spacing: 1.5px; 
-    align-items: left;
+    text-align: center;
 }    
-section {
-    flex-direction: row;
-}
 ::placeholder {
     color: red;
     font-size: medium;
     text-transform: uppercase;
     width: 50%;
     height: 50%;
+    border: 5%;
 }
+#ol1 {
+    width: 50px;
+    height: auto;
+    ;
+}
+
 
 #box {
     width: 50%;
     height: 50%;
 }
 img {
-    width: 400px;.work {
-    height: 400px;
+    width: 500px;
+    height: 500px;
+    
 }
